@@ -14,8 +14,9 @@ Install Node.js https://nodejs.org/en/
 
 ```$ npm start```
 
-It'll open browser. Get to the page with slot on it. And it'll play according to it's settings.
+- It'll open browser. Get to the page with slot on it. And it'll play according to it's settings.
+
 
 Settings can be managed inside of settings.json
 
-When the process is finished, details can be found at `details.json`."# casino_slots" 
+When the process is finished, details can be found at `details.json`.
